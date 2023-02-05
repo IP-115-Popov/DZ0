@@ -1,0 +1,38 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:ColoredRectangle.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="300" d:DesignHeight="300"
+		Height="300" Width="300"
+        x:Class="ColoredRectangle.Views.MainWindow"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="ColoredRectangle">
+
+	<Grid ColumnDefinitions="0.333*, 0.666*" RowDefinitions="0.1*,0.1*,0.1*,0.1*,0.1*,0.1*,0.1*,0.1*,0.1*,0.1*">
+		<Button Name="ButtonKhaki" Grid.Row="0" Grid.Column="0">Khaki</Button>
+		<Button Name="ButtonRed" Grid.Row="1" Grid.Column="0">Red</Button>
+		<Button Name="ButtonMediumVioletRed" Grid.Row="2" Grid.Column="0">MediumVioletRed</Button>
+		<Button Name="ButtonBisque" Grid.Row="3" Grid.Column="0">Bisque</Button>
+		<Button Name="ButtonLemonChiffon" Grid.Row="4" Grid.Column="0">LemonChiffon</Button>
+		<Button Name="ButtonPowderBlue" Grid.Row="5" Grid.Column="0">PowderBlue</Button>
+		<Button Name="ButtonMintCream" Grid.Row="6" Grid.Column="0">MintCream</Button>
+		<Button Name="ButtonMaroon" Grid.Row="7" Grid.Column="0">Maroon</Button>
+		<Button Name="ButtonRosyBrown" Grid.Row="8" Grid.Column="0">RosyBrown</Button>
+		<Button Name="ButtonLightPink" Grid.Row="9" Grid.Column="0">LightPink</Button>
+		
+		<Rectangle Fill="LightGray" Grid.Row="0" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="1" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="2" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="3" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="4" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="5" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="6" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="7" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="8" Grid.Column="1"/>
+		<Rectangle Fill="LightGray" Grid.Row="9" Grid.Column="1"/>
+		
+	</Grid>
+
+</Window>
+ 
