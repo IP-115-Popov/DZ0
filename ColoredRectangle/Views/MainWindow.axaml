@@ -10,16 +10,16 @@
         Title="ColoredRectangle">
 
 	<Grid ColumnDefinitions="0.333*, 0.666*" RowDefinitions="0.1*,0.1*,0.1*,0.1*,0.1*,0.1*,0.1*,0.1*,0.1*,0.1*">
-		<Button Name="ButtonKhaki" Command="{Binding ClickColorBut}" Grid.Row="0" Grid.Column="0">Khaki</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonRed" Grid.Row="1" Grid.Column="0">Red</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonMediumVioletRed" Grid.Row="2" Grid.Column="0">MediumVioletRed</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonBisque" Grid.Row="3" Grid.Column="0">Bisque</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonLemonChiffon" Grid.Row="4" Grid.Column="0">LemonChiffon</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonPowderBlue" Grid.Row="5" Grid.Column="0">PowderBlue</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonMintCream" Grid.Row="6" Grid.Column="0">MintCream</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonMaroon" Grid.Row="7" Grid.Column="0">Maroon</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonRosyBrown" Grid.Row="8" Grid.Column="0">RosyBrown</Button>
-		<Button Command="{Binding ClickColorBut}" Name="ButtonLightPink" Grid.Row="9" Grid.Column="0">LightPink</Button>
+		<Button Command="{Binding ClickColorButKhaki}" Name="ButtonKhaki" Grid.Row="0" Grid.Column="0">Khaki</Button>
+		<Button Command="{Binding ClickColorButRed}" Name="ButtonRed" Grid.Row="1" Grid.Column="0">Red</Button>
+		<Button Command="{Binding ClickColorButMediumVioletRed}" Name="ButtonMediumVioletRed" Grid.Row="2" Grid.Column="0">MediumVioletRed</Button>
+		<Button Command="{Binding ClickColorButBisque}" Name="ButtonBisque" Grid.Row="3" Grid.Column="0">Bisque</Button>
+		<Button Command="{Binding ClickColorButLemonChiffon}" Name="ButtonLemonChiffon" Grid.Row="4" Grid.Column="0">LemonChiffon</Button>
+		<Button Command="{Binding ClickColorButPowderBlue}" Name="ButtonPowderBlue" Grid.Row="5" Grid.Column="0">PowderBlue</Button>
+		<Button Command="{Binding ClickColorButMintCream}" Name="ButtonMintCream" Grid.Row="6" Grid.Column="0">MintCream</Button>
+		<Button Command="{Binding ClickColorButMaroon}" Name="ButtonMaroon" Grid.Row="7" Grid.Column="0">Maroon</Button>
+		<Button Command="{Binding ClickColorButRosyBrown}" Name="ButtonRosyBrown" Grid.Row="8" Grid.Column="0">RosyBrown</Button>
+		<Button Command="{Binding ClickColorButLightPink}" Name="ButtonLightPink" Grid.Row="9" Grid.Column="0">LightPink</Button>
 
 		<Rectangle Fill="{Binding RectangleColor}" Grid.Row="0" Grid.Column="1" Grid.RowSpan="10"/>
 		
