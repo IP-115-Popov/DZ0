@@ -15,9 +15,13 @@ namespace ColoredRectangle.ViewModels
             set
             {
                 rectangleColor = value;
+                //оповещяем подпищиков, ивента о изменении своиства RectangleColor
+                //непонятна кто подпищики
                 PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(RectangleColor)));
             }
         }
+        //создаем ивент PropertyChanged от делегата PropertyChangedEventHandler?
+        //непонятно что за делегат
         public event PropertyChangedEventHandler? PropertyChanged;
 
         public void ClickColorButKhaki() => RectangleColor = "Khaki";
