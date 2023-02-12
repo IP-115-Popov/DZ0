@@ -1,0 +1,13 @@
+name: BildColorRectangle
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  my-testing:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Print hello
+        run : echo "Hello"
