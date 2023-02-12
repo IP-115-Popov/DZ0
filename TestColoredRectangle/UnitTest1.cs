@@ -28,7 +28,7 @@ namespace TestColoredRectangle
 
             await Task.Delay(50);
             //получение цвета прямоугольника
-            var rectColor = (Color?)(rectangle.Fill as SolidColorBrush).Color;
+            var rectColor = ((rectangle.Fill as SolidColorBrush).Color);
 
             Assert.True(rectColor.Equals(c));
         }

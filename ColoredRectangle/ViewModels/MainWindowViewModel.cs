@@ -1,4 +1,5 @@
 using Avalonia.Data;
+using Avalonia.Media;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,8 +9,8 @@ namespace ColoredRectangle.ViewModels
 {
     public class MainWindowViewModel : INotifyPropertyChanged
     {
-        string rectangleColor = "LightGray";   
-        public string RectangleColor
+        SolidColorBrush rectangleColor = new SolidColorBrush(Colors.LightGray);//"LightGray";   
+        public SolidColorBrush RectangleColor
         {
             get => rectangleColor;
             set
@@ -24,15 +25,15 @@ namespace ColoredRectangle.ViewModels
         //непонятно что за делегат
         public event PropertyChangedEventHandler? PropertyChanged;
 
-        public void ClickColorButKhaki() => RectangleColor = "Khaki";
-        public void ClickColorButRed() => RectangleColor = "Red";
-        public void ClickColorButMediumVioletRed() => RectangleColor = "MediumVioletRed";
-        public void ClickColorButBisque() => RectangleColor = "Bisque";
-        public void ClickColorButLemonChiffon() => RectangleColor = "LemonChiffon";
-        public void ClickColorButPowderBlue() => RectangleColor = "PowderBlue";
-        public void ClickColorButMintCream() => RectangleColor = "MintCream";
-        public void ClickColorButMaroon() => RectangleColor = "Maroon";
-        public void ClickColorButRosyBrown() => RectangleColor = "RosyBrown";
-        public void ClickColorButLightPink() => RectangleColor = "LightPink";
+        public void ClickColorButKhaki() => RectangleColor = new SolidColorBrush(Colors.Khaki);
+        public void ClickColorButRed() => RectangleColor = new SolidColorBrush(Colors.Red);
+        public void ClickColorButMediumVioletRed() => RectangleColor = new SolidColorBrush(Colors.MediumVioletRed);
+        public void ClickColorButBisque() => RectangleColor = new SolidColorBrush(Colors.Bisque);
+        public void ClickColorButLemonChiffon() => RectangleColor = new SolidColorBrush(Colors.LemonChiffon);
+        public void ClickColorButPowderBlue() => RectangleColor = new SolidColorBrush(Colors.PowderBlue);
+        public void ClickColorButMintCream() => RectangleColor = new SolidColorBrush(Colors.MintCream);
+        public void ClickColorButMaroon() => RectangleColor = new SolidColorBrush(Colors.Maroon);
+        public void ClickColorButRosyBrown() => RectangleColor = new SolidColorBrush(Colors.RosyBrown);
+        public void ClickColorButLightPink() => RectangleColor = new SolidColorBrush(Colors.LightPink);
     }
 }
