@@ -1,60 +1,60 @@
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Animation.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Base.dll
-C:\Users\79130\.nuget\packages\avalonia.controls.datagrid\0.10.18\lib\netstandard2.0\Avalonia.Controls.DataGrid.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Controls.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.DesignerSupport.dll
-C:\Users\79130\.nuget\packages\avalonia.desktop\0.10.18\lib\netstandard2.0\Avalonia.Desktop.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.DesktopRuntime.dll
-C:\Users\79130\.nuget\packages\avalonia.diagnostics\0.10.18\lib\netstandard2.0\Avalonia.Diagnostics.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Dialogs.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.dll
-C:\Users\79130\.nuget\packages\avalonia.freedesktop\0.10.18\lib\netstandard2.0\Avalonia.FreeDesktop.dll
-C:\Users\79130\.nuget\packages\avalonia.headless\0.10.18\lib\netstandard2.0\Avalonia.Headless.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Input.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Interactivity.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Layout.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Markup.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Markup.Xaml.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.MicroCom.dll
-C:\Users\79130\.nuget\packages\avalonia.native\0.10.18\lib\netstandard2.0\Avalonia.Native.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.OpenGL.dll
-C:\Users\79130\.nuget\packages\avalonia.reactiveui\0.10.18\lib\netstandard2.0\Avalonia.ReactiveUI.dll
-C:\Users\79130\.nuget\packages\avalonia.remote.protocol\0.10.18\lib\netstandard2.0\Avalonia.Remote.Protocol.dll
-C:\Users\79130\.nuget\packages\avalonia.skia\0.10.18\lib\netstandard2.0\Avalonia.Skia.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Styling.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Themes.Default.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Themes.Fluent.dll
-C:\Users\79130\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Visuals.dll
-C:\Users\79130\.nuget\packages\avalonia.win32\0.10.18\lib\netstandard2.0\Avalonia.Win32.dll
-C:\Users\79130\.nuget\packages\avalonia.x11\0.10.18\lib\netstandard2.0\Avalonia.X11.dll
-C:\Users\79130\Desktop\DZ_VizPro\ColoredRectangle\obj\Debug\net6.0\ref\ColoredRectangle.dll
-C:\Users\79130\.nuget\packages\dynamicdata\7.1.1\lib\net5.0\DynamicData.dll
-C:\Users\79130\.nuget\packages\harfbuzzsharp\2.8.2.1-preview.108\lib\net6.0\HarfBuzzSharp.dll
-C:\Users\79130\.nuget\packages\jetbrains.annotations\10.3.0\lib\netstandard1.0\JetBrains.Annotations.dll
-C:\Users\79130\.nuget\packages\microsoft.codeanalysis.csharp\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\79130\.nuget\packages\microsoft.codeanalysis.csharp.scripting\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\79130\.nuget\packages\microsoft.codeanalysis.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll
-C:\Users\79130\.nuget\packages\microsoft.codeanalysis.scripting.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Animation.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Base.dll
+C:\Users\lenor\.nuget\packages\avalonia.controls.datagrid\0.10.18\lib\netstandard2.0\Avalonia.Controls.DataGrid.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Controls.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.DesignerSupport.dll
+C:\Users\lenor\.nuget\packages\avalonia.desktop\0.10.18\lib\netstandard2.0\Avalonia.Desktop.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.DesktopRuntime.dll
+C:\Users\lenor\.nuget\packages\avalonia.diagnostics\0.10.18\lib\netstandard2.0\Avalonia.Diagnostics.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Dialogs.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.dll
+C:\Users\lenor\.nuget\packages\avalonia.freedesktop\0.10.18\lib\netstandard2.0\Avalonia.FreeDesktop.dll
+C:\Users\lenor\.nuget\packages\avalonia.headless\0.10.18\lib\netstandard2.0\Avalonia.Headless.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Input.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Interactivity.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Layout.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Markup.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Markup.Xaml.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.MicroCom.dll
+C:\Users\lenor\.nuget\packages\avalonia.native\0.10.18\lib\netstandard2.0\Avalonia.Native.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.OpenGL.dll
+C:\Users\lenor\.nuget\packages\avalonia.reactiveui\0.10.18\lib\netstandard2.0\Avalonia.ReactiveUI.dll
+C:\Users\lenor\.nuget\packages\avalonia.remote.protocol\0.10.18\lib\netstandard2.0\Avalonia.Remote.Protocol.dll
+C:\Users\lenor\.nuget\packages\avalonia.skia\0.10.18\lib\netstandard2.0\Avalonia.Skia.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Styling.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Themes.Default.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Themes.Fluent.dll
+C:\Users\lenor\.nuget\packages\avalonia\0.10.18\lib\netcoreapp2.0\Avalonia.Visuals.dll
+C:\Users\lenor\.nuget\packages\avalonia.win32\0.10.18\lib\netstandard2.0\Avalonia.Win32.dll
+C:\Users\lenor\.nuget\packages\avalonia.x11\0.10.18\lib\netstandard2.0\Avalonia.X11.dll
+C:\Users\lenor\Desktop\VP_DZ\ColoredRectangle\obj\Debug\net6.0\ref\ColoredRectangle.dll
+C:\Users\lenor\.nuget\packages\dynamicdata\7.1.1\lib\net5.0\DynamicData.dll
+C:\Users\lenor\.nuget\packages\harfbuzzsharp\2.8.2.1-preview.108\lib\net6.0\HarfBuzzSharp.dll
+C:\Users\lenor\.nuget\packages\jetbrains.annotations\10.3.0\lib\netstandard1.0\JetBrains.Annotations.dll
+C:\Users\lenor\.nuget\packages\microsoft.codeanalysis.csharp\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenor\.nuget\packages\microsoft.codeanalysis.csharp.scripting\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenor\.nuget\packages\microsoft.codeanalysis.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenor\.nuget\packages\microsoft.codeanalysis.scripting.common\3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.Scripting.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\Microsoft.CSharp.dll
-C:\Users\79130\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\79130\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\79130\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\79130\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\79130\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\lenor\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\lenor\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\lenor\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\lenor\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\lenor\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.TestPlatform.Utilities.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\Microsoft.VisualBasic.Core.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\Microsoft.VisualBasic.dll
-C:\Users\79130\.nuget\packages\microsoft.codecoverage\17.3.2\lib\netcoreapp1.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\79130\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\79130\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\lenor\.nuget\packages\microsoft.codecoverage\17.3.2\lib\netcoreapp1.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\lenor\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\lenor\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\Microsoft.Win32.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\Microsoft.Win32.Registry.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\mscorlib.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\netstandard.dll
-C:\Users\79130\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll
-C:\Users\79130\.nuget\packages\nuget.frameworks\5.11.0\lib\netstandard2.0\NuGet.Frameworks.dll
-C:\Users\79130\.nuget\packages\reactiveui\13.2.10\lib\net5.0\ReactiveUI.dll
-C:\Users\79130\.nuget\packages\skiasharp\2.88.1-preview.108\lib\net6.0\SkiaSharp.dll
-C:\Users\79130\.nuget\packages\splat\10.0.1\lib\net5.0\Splat.dll
+C:\Users\lenor\.nuget\packages\newtonsoft.json\9.0.1\lib\netstandard1.0\Newtonsoft.Json.dll
+C:\Users\lenor\.nuget\packages\nuget.frameworks\5.11.0\lib\netstandard2.0\NuGet.Frameworks.dll
+C:\Users\lenor\.nuget\packages\reactiveui\13.2.10\lib\net5.0\ReactiveUI.dll
+C:\Users\lenor\.nuget\packages\skiasharp\2.88.1-preview.108\lib\net6.0\SkiaSharp.dll
+C:\Users\lenor\.nuget\packages\splat\10.0.1\lib\net5.0\Splat.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.AppContext.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Buffers.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Collections.Concurrent.dll
@@ -85,7 +85,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Diagnostics.TraceSource.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Diagnostics.Tracing.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.dll
-C:\Users\79130\.nuget\packages\system.drawing.common\4.5.0\ref\netstandard2.0\System.Drawing.Common.dll
+C:\Users\lenor\.nuget\packages\system.drawing.common\4.5.0\ref\netstandard2.0\System.Drawing.Common.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Drawing.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Drawing.Primitives.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Dynamic.Runtime.dll
@@ -136,7 +136,7 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Numerics.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Numerics.Vectors.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.ObjectModel.dll
-C:\Users\79130\.nuget\packages\system.reactive\5.0.0\lib\net5.0\System.Reactive.dll
+C:\Users\lenor\.nuget\packages\system.reactive\5.0.0\lib\net5.0\System.Reactive.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Reflection.DispatchProxy.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Reflection.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Reflection.Emit.dll
@@ -212,10 +212,10 @@ C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Xml.XmlSerializer.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Xml.XPath.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\System.Xml.XPath.XDocument.dll
-C:\Users\79130\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\testhost.dll
-C:\Users\79130\.nuget\packages\tmds.dbus\0.9.0\lib\netstandard2.0\Tmds.DBus.dll
+C:\Users\lenor\.nuget\packages\microsoft.testplatform.testhost\17.3.2\lib\netcoreapp2.1\testhost.dll
+C:\Users\lenor\.nuget\packages\tmds.dbus\0.9.0\lib\netstandard2.0\Tmds.DBus.dll
 C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\7.0.2\ref\net7.0\WindowsBase.dll
-C:\Users\79130\.nuget\packages\xunit.abstractions\2.0.3\lib\netstandard2.0\xunit.abstractions.dll
-C:\Users\79130\.nuget\packages\xunit.assert\2.4.2\lib\netstandard1.1\xunit.assert.dll
-C:\Users\79130\.nuget\packages\xunit.extensibility.core\2.4.2\lib\netstandard1.1\xunit.core.dll
-C:\Users\79130\.nuget\packages\xunit.extensibility.execution\2.4.2\lib\netstandard1.1\xunit.execution.dotnet.dll
+C:\Users\lenor\.nuget\packages\xunit.abstractions\2.0.3\lib\netstandard2.0\xunit.abstractions.dll
+C:\Users\lenor\.nuget\packages\xunit.assert\2.4.2\lib\netstandard1.1\xunit.assert.dll
+C:\Users\lenor\.nuget\packages\xunit.extensibility.core\2.4.2\lib\netstandard1.1\xunit.core.dll
+C:\Users\lenor\.nuget\packages\xunit.extensibility.execution\2.4.2\lib\netstandard1.1\xunit.execution.dotnet.dll
